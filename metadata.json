@@ -1,0 +1,8 @@
+{
+  "name": "LuxeModern Product Catalog",
+  "description": "A high-end, AI-powered product catalog designed to showcase premium home decor and tech with a built-in Gemini AI personal shopping assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
